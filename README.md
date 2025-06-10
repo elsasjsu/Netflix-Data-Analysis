@@ -36,3 +36,4 @@ This project explores the Netflix Movies and TV Shows dataset to understand the 
 
 📁 Dataset Source
 Data is retrieved is from the Kaggle
+https://www.kaggle.com/datasets/shivamb/netflix-shows
